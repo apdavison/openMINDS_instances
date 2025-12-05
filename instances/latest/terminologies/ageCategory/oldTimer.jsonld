@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/ageCategory/oldTimer",
+  "@type": "https://openminds.om-i.org/types/AgeCategory",
+  "definition": "One who has been around for a long time or has a great deal of experience.",
+  "description": "This is a fake instance for testing, if this appears in an openMINDS release, something went wrong.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "old-timer",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "oldster"
+  ]
+}
