@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/measuredQuantity/synapticDensity",
+  "@type": "https://openminds.om-i.org/types/MeasuredQuantity",
+  "definition": "The number of synapses per unit volume of brain tissue",
+  "description": "This term suggestion automatically generated 2023-03-16 from DatasetVersion keywords",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "synaptic density",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
