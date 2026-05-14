@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/measuredQuantity/localFieldPotential",
+  "@type": "https://openminds.om-i.org/types/MeasuredQuantity",
+  "definition": "The 'local field potential' (short, LFP) is an electric potential that can be recorded in the extracellular space of neuronal tissue, typically using micro-electrodes (metal, silicon or glass micropipettes).",
+  "description": "description goes here",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "local field potential",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "LFP"
+  ]
+}
